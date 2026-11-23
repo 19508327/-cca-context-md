@@ -23,3 +23,17 @@
 5. 本仓公开。仅提交获准公开的提炼件，用角色代称和来源编号；原文及身份映射由来源持有人保存。
 
 GitHub 的 main 分支可以包含以上全部分区。卡片是否已获业务确认，由其分区、状态和批准依据决定。
+
+- [ux-team / case-review](projects/ux-team/case-review/README.md)
+
+- [ux-team / ai-review](projects/ux-team/ai-review/README.md)
+
+- [ux-team / design-skills](projects/ux-team/design-skills/README.md)
+
+- [ux-team / survey-2026](projects/ux-team/survey-2026/README.md)
+
+- [ux-team / assets](projects/ux-team/assets/README.md)
+
+- [ux-team / context-management](projects/ux-team/context-management/README.md)
+
+- [ux-team / meetings](projects/ux-team/meetings/README.md)
