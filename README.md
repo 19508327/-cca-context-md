@@ -2,6 +2,13 @@
 
 [内容审核 · 送审与复核体验](projects/content-review/review-experience/README.md) 收录第一批设计上下文。进入议题后，可直接点开方案或待核实问题。要回答“团队已经定了什么”，先看该议题的 Main。
 
+## 五场会议的主线与旁支
+
+本批主线聚焦 AI 设计能力、UX/UI 规范与知识复用、集成及上下文管理；具体业务方案和运营事务在 other 单独保留。主线是内容分类，是否正式生效仍以卡片分区和批准依据判断。
+
+- [本批会议总索引](projects/ux-team/meetings/Candidate/UX-MULTI-20261123-INDEX.md)：14 个主线议题、6 个 other 议题、11 项变化与待确认分歧。
+- [other · 独立项目与事务](projects/ux-team/other/README.md)。
+
 ## 目录和卡片规则
 
 每个议题放在 `projects/<项目>/<议题>/`，其中 README.md 是阅读入口。每个独立结论、提案或问题一张 Markdown 卡，按当前状态存放。
@@ -37,3 +44,5 @@ GitHub 的 main 分支可以包含以上全部分区。卡片是否已获业务�
 - [ux-team / context-management](projects/ux-team/context-management/README.md)
 
 - [ux-team / meetings](projects/ux-team/meetings/README.md)
+
+- [ux-team / other](projects/ux-team/other/README.md)
