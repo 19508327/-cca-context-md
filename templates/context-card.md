@@ -1,15 +1,25 @@
 ---
 id: "<稳定 ID>"
-project: "<项目>"
-topic: "<议题>"
-zone: Candidate
-type: observation
-status: reported
+project: "ai-native-design"
+topic: "skill-design | squad-application | skill-bugs | skill-knowledge"
+zone: "Candidate"
+type: "observation | proposal | question | decision"
+status: "reported"
 version: 1
-source: "<来源编号>"
-source_anchor: "<时间点、章节或可公开引用>"
+source: "<公开可引用来源 ID>"
+source_anchor: "<会议时间戳/章节/经授权的链接>"
 ---
 
-# <可单独检索的标题>
+# <1—2 个关键词就能识别的标题>
 
-写明适用场景、观察或变化。提案补充使用障碍及交互方案；待确认项说明分歧、需确认的角色和动作。正式卡补充审核等级、确认角色、日期及可核验批准依据；修订时链接被替代的版本。
+- **场景**：谁在做什么？遇到了什么具体障碍？
+- **核心判断**：此刻明确知道什么？尚未确认什么？不要把建议写成决定。
+- **下一步**：由哪个角色验证/确认什么？负责人未知写“待确认”。
+
+## 证据与约束
+
+- 原讨论/会议时间点：
+- 条件与反例：
+- 关联卡：
+
+> 进入 Main 时另补：L1/L2/L3 审批层级、批准角色、时间、证据、适用范围、被替代版本。没有依据的卡片维持候选/探索/待确认。

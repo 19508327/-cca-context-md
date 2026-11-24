@@ -1,55 +1,37 @@
-# CCA 团队上下文仓
+# CCA · AI Native Design 上下文仓
 
-[内容审核 · 送审与复核体验](projects/content-review/review-experience/README.md) 收录第一批设计上下文。进入议题后，可直接点开方案或待核实问题。要回答“团队已经定了什么”，先看该议题的 Main。
+**主项目：AI Native Design 的 Skill 设计、战队应用、Bug 迭代和知识库建设。**
 
-## CCA 接手仓库
+> 当前处于 2026-11-24 第一次归类整理的审核版本；目录调整不自动批准卡片。**Main 是经正式确认可执行的知识区，GitHub main 分支不是 Main 知识区。**
 
-先读[仓库主旨与议题](CCA-SCOPE.md)。新仓缺少范围时，先向负责人确认项目主旨、核心方向和收录议题，再从有关材料里提炼有来源的卡片。
+## 一眼看入口
 
-- [CCA 试点需求与验收](docs/cca-requirements.md)
-- [CCA 需求迭代记录](docs/cca-iterations.md)
+1. **[先看主仓：AI Native Design](projects/ai-native-design/README.md)**：四条核心工作线，按中文关键词和状态阅读。
+2. **[当前已确认 Main](projects/ai-native-design/Main/README.md)**：仅有项目负责人明确确认的“仓库范围”和“旁支边界”两项；其它会议讨论未擅自批准。
+3. **[旁支：其他产品与运营](related-projects/README.md)**：内容送审、调研、案例复盘及其它事务；不污染 Skill 主线。
+4. **[证据：会议来源索引](sources/meetings/README.md)**：原会议提炼索引，只用于追溯，不是正式决策。
 
-## 五场会议的主线与旁支
+## 主线按场景拆成四个议题
 
-本批主线聚焦 AI 设计能力、UX/UI 规范与知识复用、集成及上下文管理；具体业务方案和运营事务在 other 单独保留。主线是内容分类，是否正式生效仍以卡片分区和批准依据判断。
+- [Skill 设计](projects/ai-native-design/skill-design/README.md)：UX/UI Skill 流程、交互策略、交接与质量门禁。
+- [战队应用 Skill](projects/ai-native-design/squad-application/README.md)：需求输入、实际项目试用、成果对比、验收与复用。
+- [Skill Bug 优化](projects/ai-native-design/skill-bugs/README.md)：UI 首稿偏差、模型跳步、问题复现、修复与复测。
+- [Skill 知识库](projects/ai-native-design/skill-knowledge/README.md)：共享规范、组件、案例、修正模板、项目知识继承。
 
-- [本批会议总索引](projects/ux-team/meetings/Candidate/UX-MULTI-20261123-INDEX.md)：14 个主线议题、6 个 other 议题、11 项变化与待确认分歧。
-- [other · 独立项目与事务](projects/ux-team/other/README.md)。
+## 知识状态（不是重要性评分）
 
-## 目录和卡片规则
+- **Candidate**：记录到的有来源信息，但还没变成可执行共识。
+- **Exploration**：正在探索或试验的解决方案。
+- **Pending**：待核实、意见冲突、需要责任人确认。
+- **Main**：负责人有权确认且现行生效的信息。
+- **Archive**：被正式替代、驳回、撤销的历史；本轮**没有足够证据**把旧卡标成已废弃。
 
-每个议题放在 `projects/<项目>/<议题>/`，其中 README.md 是阅读入口。每个独立结论、提案或问题一张 Markdown 卡，按当前状态存放。
+## 使用与写入
 
-| 目录 | 写入与取用规则 |
-|---|---|
-| Candidate | 放有来源的观察、会议澄清；复核时保留原话的条件和不确定性。 |
-| Exploration | 放演示原型、备选方案和假设；引用时注明“方案”。 |
-| Pending | 放冲突、权限疑问或拟合流的变更；写清分歧及下一步由哪个角色确认。 |
-| Main | 放已批准、当前生效的上下文；记录依据、版本、适用范围和确认角色。 |
-| Archive | 保存被替代、驳回或撤回的历史版本，注明原因及后继卡。 |
+- [CCA-SCOPE.md](CCA-SCOPE.md)：仓库收录范围与跨项目去向。
+- [AGENTS.md](AGENTS.md)：接手、分流和审批规则。
+- [卡片模板](templates/context-card.md)：稳定 ID + 1—2 个文件名关键词，卡片内注明项目、来源、状态和证据。
+- [迭代日志](docs/cca-iterations.md)：每次主干范围/分类变动记录。
+- [试点需求](docs/cca-requirements.md)：技术与治理需求，不等同于目前已完成能力。
 
-## 如何增加一条记录
-
-1. 找到所属项目与议题，按来源和语义核对现有卡。相同内容补证据，有实质冲突另建 Pending 卡并链接原卡。
-2. 复制[卡片模板](templates/context-card.md)，填写稳定 ID、项目、议题、分区、类型、状态、版本和证据位置。文件名使用 ID；卡片移动时保留 ID，同步更新议题索引和引用。
-3. 合流时写明批准依据。L1 只收可信系统可核验的低风险事实；L2 由议题负责人确认；L3 涉及正式规则、权限或关键决策，须取得相应授权决策者及必要会签方的确认。授予公开发布权限只决定材料可见范围，业务审批另行记录。
-4. 替代正式结论时，将旧版保留为 `Archive/<ID>-v<版本>.md`，在新旧卡之间互链。正式要求默认只取任务适用的当前 Main。
-5. 本仓公开。仅提交获准公开的提炼件，用角色代称和来源编号；原文及身份映射由来源持有人保存。
-
-GitHub 的 main 分支可以包含以上全部分区。卡片是否已获业务确认，由其分区、状态和批准依据决定。
-
-- [ux-team / case-review](projects/ux-team/case-review/README.md)
-
-- [ux-team / ai-review](projects/ux-team/ai-review/README.md)
-
-- [ux-team / design-skills](projects/ux-team/design-skills/README.md)
-
-- [ux-team / survey-2026](projects/ux-team/survey-2026/README.md)
-
-- [ux-team / assets](projects/ux-team/assets/README.md)
-
-- [ux-team / context-management](projects/ux-team/context-management/README.md)
-
-- [ux-team / meetings](projects/ux-team/meetings/README.md)
-
-- [ux-team / other](projects/ux-team/other/README.md)
+**本仓是公开仓库**，仅纳入获准公开的提炼内容；原始转写、个人身份映射、保密内容及内部链接不得直接上传。
