@@ -37,9 +37,9 @@ source_anchor: "M02；逐条日期与定位见正文"
 
 ## 关联记录
 
-- [UX-20261120-C09](https://github.com/19508327/-cca-context-md/blob/main/projects/ux-team/design-skills/Candidate/UX-20261120-C09.md)
-- [D01](https://github.com/19508327/-cca-context-md/blob/main/projects/ux-team/design-skills/Pending/UX-MULTI-20261123-D01.md)
-- [D08](https://github.com/19508327/-cca-context-md/blob/main/projects/ux-team/design-skills/Pending/UX-MULTI-20261123-D08.md)
+- [UX-20261120-C09](https://github.com/19508327/-cca-context-md/blob/main/projects/ai-native-design/skill-design/Candidate/UX-20261120-C09_低保真人工确认.md)
+- [D01](https://github.com/19508327/-cca-context-md/blob/main/projects/ai-native-design/skill-design/Pending/UX-MULTI-20261123-D01_统一入口与模块边界.md)
+- [D08](https://github.com/19508327/-cca-context-md/blob/main/projects/ai-native-design/skill-design/Pending/UX-MULTI-20261123-D08_一次出稿与分段确认.md)
 
 ## 来源边界
 
