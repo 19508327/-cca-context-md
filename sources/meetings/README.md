@@ -2,7 +2,8 @@
 
 会议总结可能涉及多个项目，放在证据索引区；**不能因为会议文件被仓库收录就认定所有结论已批准**。阅读具体 Skill 内容请从主仓卡片进入。
 
-## Candidate · 6 项
+## Candidate · 7 项
+- [Token组件讨论来源](Candidate/UX-98312155-SOURCE_Token%E7%BB%84%E4%BB%B6%E8%AE%A8%E8%AE%BA%E6%9D%A5%E6%BA%90.md) · `UX-98312155-SOURCE` · 会议日期待确认，2026-11-27收录
 - [1120周会来源索引](Candidate/UX-20261120-MEETING_1120%E5%91%A8%E4%BC%9A%E6%9D%A5%E6%BA%90%E7%B4%A2%E5%BC%95.md) · `UX-20261120-MEETING`
 - [五场会议主题总索引](Candidate/UX-MULTI-20261123-INDEX_%E4%BA%94%E5%9C%BA%E4%BC%9A%E8%AE%AE%E4%B8%BB%E9%A2%98%E6%80%BB%E7%B4%A2%E5%BC%95.md) · `UX-MULTI-20261123-INDEX`
 - [0901会议来源](Candidate/UX-MULTI-20261123-S20260901_0901%E4%BC%9A%E8%AE%AE%E6%9D%A5%E6%BA%90.md) · `UX-MULTI-20261123-S20260901`

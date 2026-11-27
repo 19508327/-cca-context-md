@@ -2,7 +2,10 @@
 
 **用于检验 Skill 能否解决战队真实问题。** 一张卡讲清使用者、输入、卡点、Skill 动作、验证结果和接手人。
 
-## Pending · 3 项
+## Pending · 6 项
+- [技术验证计划](Pending/UX-98312155-P04_%E6%8A%80%E6%9C%AF%E9%AA%8C%E8%AF%81%E8%AE%A1%E5%88%92.md) · `UX-98312155-P04`
+- [速度质量验收](Pending/UX-98312155-P03_%E9%80%9F%E5%BA%A6%E8%B4%A8%E9%87%8F%E9%AA%8C%E6%94%B6.md) · `UX-98312155-P03`
+- [历史页面回归](Pending/UX-98312155-P02_%E5%8E%86%E5%8F%B2%E9%A1%B5%E9%9D%A2%E5%9B%9E%E5%BD%92.md) · `UX-98312155-P02`
 - [AI评审流转确认](Pending/UX-20261120-P02_AI%E8%AF%84%E5%AE%A1%E6%B5%81%E8%BD%AC%E7%A1%AE%E8%AE%A4.md) · `UX-20261120-P02`
 - [业务走查新增价值](Pending/UX-MULTI-20261123-D05_%E4%B8%9A%E5%8A%A1%E8%B5%B0%E6%9F%A5%E6%96%B0%E5%A2%9E%E4%BB%B7%E5%80%BC.md) · `UX-MULTI-20261123-D05`
 - [前端生成代码交付](Pending/UX-MULTI-20261123-D10_%E5%89%8D%E7%AB%AF%E7%94%9F%E6%88%90%E4%BB%A3%E7%A0%81%E4%BA%A4%E4%BB%98.md) · `UX-MULTI-20261123-D10`

@@ -2,16 +2,20 @@
 
 **用于让团队继承 Skill 的知识。** 区分通用规范和项目约束，注明来源、复用范围、共享权限以及更新责任。
 
-## Pending · 4 项
+## Pending · 5 项
+- [跨库补齐边界](Pending/UX-98312155-P01_%E8%B7%A8%E5%BA%93%E8%A1%A5%E9%BD%90%E8%BE%B9%E7%95%8C.md) · `UX-98312155-P01`
 - [组件共享与克隆权限](Pending/UX-20261120-P07_%E7%BB%84%E4%BB%B6%E5%85%B1%E4%BA%AB%E4%B8%8E%E5%85%8B%E9%9A%86%E6%9D%83%E9%99%90.md) · `UX-20261120-P07`
 - [收录与正式审核衔接](Pending/UX-20261120-P08_%E6%94%B6%E5%BD%95%E4%B8%8E%E6%AD%A3%E5%BC%8F%E5%AE%A1%E6%A0%B8%E8%A1%94%E6%8E%A5.md) · `UX-20261120-P08`
 - [知识审核试点例外](Pending/UX-MULTI-20261123-D06_%E7%9F%A5%E8%AF%86%E5%AE%A1%E6%A0%B8%E8%AF%95%E7%82%B9%E4%BE%8B%E5%A4%96.md) · `UX-MULTI-20261123-D06`
 - [Gcommon规范绑定](Pending/UX-MULTI-20261123-D09_Gcommon%E8%A7%84%E8%8C%83%E7%BB%91%E5%AE%9A.md) · `UX-MULTI-20261123-D09`
 
-## Exploration · 1 项
+## Exploration · 3 项
+- [旧仓反推核对](Exploration/UX-98312155-E02_%E6%97%A7%E4%BB%93%E5%8F%8D%E6%8E%A8%E6%A0%B8%E5%AF%B9.md) · `UX-98312155-E02`
+- [Token语义规则](Exploration/UX-98312155-E01_Token%E8%AF%AD%E4%B9%89%E8%A7%84%E5%88%99.md) · `UX-98312155-E01`
 - [项目规范持续继承](Exploration/UX-20261120-E07_%E9%A1%B9%E7%9B%AE%E8%A7%84%E8%8C%83%E6%8C%81%E7%BB%AD%E7%BB%A7%E6%89%BF.md) · `UX-20261120-E07`
 
-## Candidate · 9 项
+## Candidate · 10 项
+- [旧仓组件盘点](Candidate/UX-98312155-C01_%E6%97%A7%E4%BB%93%E7%BB%84%E4%BB%B6%E7%9B%98%E7%82%B9.md) · `UX-98312155-C01`
 - [真实问题提示词库](Candidate/UX-20261120-C08_%E7%9C%9F%E5%AE%9E%E9%97%AE%E9%A2%98%E6%8F%90%E7%A4%BA%E8%AF%8D%E5%BA%93.md) · `UX-20261120-C08`
 - [项目风格首次选择](Candidate/UX-20261120-C11_%E9%A1%B9%E7%9B%AE%E9%A3%8E%E6%A0%BC%E9%A6%96%E6%AC%A1%E9%80%89%E6%8B%A9.md) · `UX-20261120-C11`
 - [知识资产权限边界](Candidate/UX-20261120-C12_%E7%9F%A5%E8%AF%86%E8%B5%84%E4%BA%A7%E6%9D%83%E9%99%90%E8%BE%B9%E7%95%8C.md) · `UX-20261120-C12`
